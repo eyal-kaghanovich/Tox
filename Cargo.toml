@@ -1,5 +1,5 @@
 [package]
-name = "tox"
+name = "dzn"
 version = "0.1.0"
 edition = "2024"
 
